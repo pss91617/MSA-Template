@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="jdbc-repo" />
+      <option name="name" value="jdbc-repo" />
+      <option name="url" value="http://172.16.10.60:58081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://140.238.6.30:8081/repository/maven-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://172.16.10.60:58081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Maven repository" />
+      <option name="name" value="Maven repository" />
+      <option name="url" value="http://172.16.10.60:58081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hibernate-repo" />
+      <option name="name" value="hibernate-repo" />
+      <option name="url" value="http://172.16.10.60:58081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestones" />
+      <option name="name" value="spring-milestones" />
+      <option name="url" value="http://172.16.10.60:58081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="java.net-Public" />
+      <option name="name" value="Maven Java Net Snapshots and Releases" />
+      <option name="url" value="http://172.16.10.60:58081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ojdbc14-repo" />
+      <option name="name" value="ojdbc14-repo" />
+      <option name="url" value="http://172.16.10.60:58081/repository/maven-public/" />
+    </remote-repository>
+  </component>
+</project>
